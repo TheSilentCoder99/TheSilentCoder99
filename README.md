@@ -2,6 +2,10 @@
 
 An aspiring developer focused on Web Development and building practical projects.
 
+## Philosophy
+
+I build projects to learn deeply, document progress, and create practical solutions.
+
 ## 🚀 Currently learning
 
 - HTML, CSS, JavaScript
