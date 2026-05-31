@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Alan 👋
 
-<!--
-**TheSilentCoder99/TheSilentCoder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring developer focused on Web Development and building practical projects.
 
-Here are some ideas to get you started:
+## 🚀 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- PHP & SQL
+- Python, JAVA
+- Secure Web Development practices
+
+## 🛠 Tech Stack
+
+HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git
+
+## 📌 Current Projects
+
+- Business websites for local businesses
+- Product catalog app in PHP
+- Personal web projects
+- A program to manage my personal library (books, authors, genres...)
+
+## 🎯 Goals
+
+- Transition into IT
+- Build real-world projects
+- Combine development + security knowledge
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/alan-sepulveda1999/
