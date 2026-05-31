@@ -1,6 +1,6 @@
 # Hey, I'm Alan 👋
 
-An aspiring developer focused on Web Development and building practical projects.
+An aspiring developer focused on (but not only) Web Development and building practical projects.
 
 ## Philosophy
 
