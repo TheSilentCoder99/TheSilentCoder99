@@ -23,6 +23,7 @@ HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git
 - Product catalog app in PHP
 - Personal web projects
 - A program to manage my personal library (books, authors, genres...)
+- A PWA to use it as a Gymtracker
 
 ## 🎯 Goals
 
