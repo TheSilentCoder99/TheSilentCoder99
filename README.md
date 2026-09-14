@@ -34,3 +34,5 @@ HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/alan-sepulveda1999/
+Phone: +34 633 13 67 07
+Mail: Alrd1718@gmail.com
