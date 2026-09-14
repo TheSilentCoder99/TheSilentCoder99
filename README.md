@@ -12,10 +12,11 @@ I build projects to learn deeply, document progress, and create practical soluti
 - PHP & SQL
 - Python, JAVA
 - Secure Web Development practices
+-  Kotlin & JetPack Compose
 
 ## 🛠 Tech Stack
 
-HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git
+HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git & Github
 
 ## 📌 Current Projects
 
@@ -24,6 +25,7 @@ HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git
 - Personal web projects
 - A program to manage my personal library (books, authors, genres...)
 - A PWA to use it as a Gymtracker
+- An App related to stoicism and it´s concept of controlled discomfort
 
 ## 🎯 Goals
 
@@ -33,6 +35,6 @@ HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/alan-sepulveda1999/
-Phone: +34 633 13 67 07
-Mail: Alrd1718@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alan-sepulveda1999/
+- Phone: +34 633 13 67 07
+- Mail: Alrd1718@gmail.com
