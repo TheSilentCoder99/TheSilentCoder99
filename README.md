@@ -9,14 +9,16 @@ I build projects to learn deeply, document progress, and create practical soluti
 ## 🚀 Currently learning
 
 - HTML, CSS, JavaScript
-- PHP & SQL
-- Python, JAVA
+- MySQL, MongoDB
+- Eloquent, Prismati
+- JAVA, Typescript, PHP
+- Spring Boot, NestJS, Laravel
+- UI, UX
 - Secure Web Development practices
--  Kotlin & JetPack Compose
 
 ## 🛠 Tech Stack
 
-HTML • CSS • JavaScript • PHP • SQL • Python • JAVA • Git & Github
+• MySQL • HTML • CSS • JavaScript • PHP • Laravel • Typescript • NestJS • JAVA • SpringBoot • Git & Github
 
 ## 📌 Current Projects
 
